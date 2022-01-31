@@ -4,11 +4,11 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
     
-HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
+HELP_PIC = "https://telegra.ph/file/725fa8c7b8fc5831d0c23.jpg"
 
-Riz_Help = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+Riz_Help = "🔥 𝐊𝐀𝐀𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 🔥\n\n"
  
-Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
+Riz_Help += f"__𝐂𝐦𝐝𝐬 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐢𝐧 𝐊𝐀𝐀𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓__\n\n"
 
 Riz_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -24,7 +24,7 @@ Riz_Help += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.drepl
  
 Riz_Help += f"ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ.\n\n"
 
-Riz_Help += f"© @RiZoeLX | @DNHxHELL\n"
+Riz_Help += f"© @KAALNETWORK | @TEAM_KAAL_RIDER\n"
 
 
 @Riz.on(events.NewMessage(pattern=".help"))
@@ -35,10 +35,10 @@ async def help(event):
                                   caption=Riz_Help,
                                   buttons=[
         [
-        Button.url("ᴀʟʟ ᴄᴍᴅs", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
+        Button.url("ᴀʟʟ ᴄᴍᴅs", "https://t.me/ITS_HEAVEN_KING")
         ],
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https//t.me/KAALNETWORK")
         ] 
         ]
         )                                                         
