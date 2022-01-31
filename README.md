@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>𝗞𝗔𝗔𝗟 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/garwmishra/kaal_Spam_bot/fork)
