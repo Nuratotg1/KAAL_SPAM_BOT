@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
+  <img src="https://telegra.ph/file/085698d6b8d9c14f65fef.jpg">
 </p>
 <h1 align="center">
   <b>𝗞𝗔𝗔𝗟 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
